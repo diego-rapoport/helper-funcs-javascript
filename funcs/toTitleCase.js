@@ -1,6 +1,6 @@
 /** 
  * Takes a word and turns into title case.
- * @param {string} a word
+ * @param {string} word a word
  * @returns {string} another word
  **/
 export function toTitleCase(word) {
