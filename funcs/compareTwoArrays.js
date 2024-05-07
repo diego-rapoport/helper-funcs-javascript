@@ -1,6 +1,6 @@
 /**
- * @param {Array<string|number>} arr1 first array
- * @param {Array<string|number>} arr2 second array
+ * @param {Array<string|number|null|boolean>} arr1 first array
+ * @param {Array<string|number|null|boolean>} arr2 second array
  * @returns {boolean} true if items inside matches strictly
  **/
 export function compareTwoArrays(arr1, arr2) {
