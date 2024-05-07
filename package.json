@@ -1,0 +1,24 @@
+{
+  "name": "helper-funcs",
+  "version": "0.0.1",
+  "description": "Javascript functions to help in daily basis works",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test tests"
+  },
+  "keywords": [
+    "javascript",
+    "functions",
+    "basics",
+    "algorithm",
+    "jsdoc",
+    "tests",
+    "vanilla"
+  ],
+  "author": "Diego Manuel Jaeger Rapoport",
+  "license": "MIT"
+}
