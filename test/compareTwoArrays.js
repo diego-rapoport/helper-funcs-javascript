@@ -8,4 +8,10 @@ describe('Comparing two arrays', () => {
     const array2 = ['one','two','three']
     assert.equal(true, compareTwoArrays(array1, array2))
   })
+
+  it('should return true comparing two arrays with different kind of items inside', () => {
+    const array1 = ['string', 5, false, null]
+    const array2 = ['string', 5, false, null]
+    assert.equal(true, compareTwoArrays(array1, array2))
+  })
 })
