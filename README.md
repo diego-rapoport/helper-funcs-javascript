@@ -6,6 +6,10 @@ I'm not intended to turn this into a library nor willingly solve any specific ca
 
 _Yes I've done that by myself, but of course there'll be reference to the work of others. Therefore I will not demand the need of aknowledgment of those functions._
 
+# Tests
+If you wanna run all the tests at once you can do `node run test`.
+
+---
 
 Copyright © 2024 Diego Rapoport
 
